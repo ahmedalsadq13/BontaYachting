@@ -1,0 +1,1 @@
+ready "Setup" for work , contains Bootstrap 5 and Font Awesome 6.1.1.
